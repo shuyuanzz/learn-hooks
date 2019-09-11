@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+hooks
+1.怎么使用状态和更新状态
+2.怎么挂载副作用
+3.怎么清除副作用
+4.怎么使用多个状态和副作用
+5.在副作用中使用优化 和 只在初始化的时候使用副作用
+6.副作用不会中断浏览器绘制
